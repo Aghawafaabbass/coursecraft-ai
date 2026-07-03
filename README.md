@@ -528,16 +528,16 @@ erDiagram
 ### Screenshot 5 — Assessments Tab with Quizzes and Rubric
 ![Screenshot 5](Screenshots/Sc5.PNG)
 
-### Screenshot 6 — Analytics Tab with Token Dashboard
+### Screenshot 6 — Assessments Tab with Assignments
 ![Screenshot 6](Screenshots/Sc6.PNG)
 
-### Screenshot 7 — Knowledge Graph Tab
+### Screenshot 7 — Assessments Tab with Assignments and Rubric
 ![Screenshot 7](Screenshots/Sc7.PNG)
 
-### Screenshot 8 — Export Tab with Download Options
+### Screenshot 8 — Analytics
 ![Screenshot 8](Screenshots/Sc8.PNG)
 
-### Screenshot 9 — Light Mode View
+### Screenshot 9 — Light Mode View and Export Tab with Download Options
 ![Screenshot 9](Screenshots/Sc9.PNG)
 
 ---
